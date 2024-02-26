@@ -1,0 +1,14 @@
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\obj\Debug\net7.0\HM_Slesson-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\obj\Debug\net7.0\HM_Slesson-6.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\obj\Debug\net7.0\HM_Slesson-6.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\obj\Debug\net7.0\HM_Slesson-6.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\bin\Debug\net7.0\HM_Slesson-6.exe
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\bin\Debug\net7.0\HM_Slesson-6.deps.json
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\bin\Debug\net7.0\HM_Slesson-6.runtimeconfig.json
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\bin\Debug\net7.0\HM_Slesson-6.dll
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\bin\Debug\net7.0\HM_Slesson-6.pdb
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\obj\Debug\net7.0\HM_Slesson-6.dll
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\obj\Debug\net7.0\refint\HM_Slesson-6.dll
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\obj\Debug\net7.0\HM_Slesson-6.pdb
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\obj\Debug\net7.0\HM_Slesson-6.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-6\obj\Debug\net7.0\ref\HM_Slesson-6.dll
